@@ -14,7 +14,7 @@ module.exports = {
     "jest": true,
     "beforeEach": true,
   },
-  parser: "babel-eslint",
+  parser: "@babel/eslint-parser",
   parserOptions: {
     "ecmaVersion": 2020,
     "ecmaFeatures": {
