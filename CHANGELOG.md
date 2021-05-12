@@ -1,3 +1,7 @@
+## [7.0.4](https://github.com/FireNet-Designs/eslint-config-fnd/compare/v7.0.3...v7.0.4) (2021-05-12)
+
+
+
 ## [7.0.3](https://github.com/FireNet-Designs/eslint-config-fnd/compare/v7.0.2...v7.0.3) (2021-05-12)
 
 
