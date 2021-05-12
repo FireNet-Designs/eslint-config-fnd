@@ -34,6 +34,7 @@
     "prettier": "^2.3.0"
   },
   "devDependencies": {
+    "@babel/runtime": "^7.12.5",
     "conventional-changelog-cli": "^2.0.31",
     "react": ">= 0.13.0"
   },
